@@ -18,7 +18,7 @@
 
 using namespace std;
 
-//GA paarmeters
+//GA parameters
 const int GENERATION = 500;  //num of generations for GA
 const int CLEN = 15;  //Chromosome length, equivalent to number of bits
 const int POP_SIZE = 25;  //population size
